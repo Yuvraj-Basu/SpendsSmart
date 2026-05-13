@@ -58,20 +58,6 @@ SpendSmart/
 └── Program.cs                     # App setup and configuration
 ```
 
----
-
-## Screenshots
-
-> Coming soon — will add once hosted.
-
----
-
-## What I'd build next
-
-This was mainly a learning project, but if I were to take it further I'd add a proper SQL Server database, expense categories, date filtering, and eventually a simple chart showing monthly spend. User authentication would be the step after that.
-
----
-
 ## Author
 
 **Yuvraj Basu**  
